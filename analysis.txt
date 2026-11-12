@@ -1,0 +1,162 @@
+published marks parsed: 791,486
+nonpub listing rows:    778,996
+nonpub marks coded destroyed (X/Y/Z): 121,405
+  of those, ALSO published with a datasheet: 0
+  withheld entirely:                       121,405
+  destroyed-coded share of all marks seen: 13.3% of 912,891
+  code counts (H+v columns): {'Z': 15189, 'X': 211962, 'Y': 448}
+
+condition vocabulary across every HISTORY row in the published set:
+  GOOD               1,078,729
+  MONUMENTED           749,451
+  MARK NOT FOUND       244,760
+  FIRST OBSERVED        38,825
+  POOR                  21,515
+  SEE DESCRIPTION       17,020
+  01 MONUMENTED              9
+
+marks ever reported MARK NOT FOUND:        177,328
+  someone filed a later report (exposure): 59,580  (33.6%)
+  of THOSE, later reported GOOD or POOR:   16,772  (28.2%)
+  of THOSE, later reported GOOD:           15,801  (26.5%)
+  of THOSE, every later report NOT FOUND:  41,873  (70.3%)
+marks reported GOOD and later NOT FOUND:   93,136
+
+age in years of the LAST report on a mark, by what that report said:
+  GOOD               n= 400,110  median    25  p25  14  p75  54  >=20y   61%  >=40y   38%
+  MONUMENTED         n= 190,122  median    60  p25  42  p75  76  >=20y   91%  >=40y   78%
+  MARK NOT FOUND     n= 162,395  median    28  p25  19  p75  48  >=20y   74%  >=40y   36%
+  FIRST OBSERVED     n=  16,653  median    74  p25  61  p75  91  >=20y  100%  >=40y   98%
+  POOR               n=  11,458  median    23  p25  16  p75  48  >=20y   64%  >=40y   33%
+  SEE DESCRIPTION    n=   7,120  median    54  p25  35  p75  69  >=20y   86%  >=40y   71%
+  01 MONUMENTED      n=       1  median    22  p25  22  p75  22  >=20y  100%  >=40y    0%
+
+agency code -> name, derived by matching HISTORY years to recovery-note bylines: 2,505 codes
+  top agencies by number of condition reports filed:
+    CGS       694,681  COAST AND GEODETIC SURVEY                  100% of 542691 votes
+    NGS       282,711  NATIONAL GEODETIC SURVEY                   100% of 253051 votes
+    USPSQD    238,588  US POWER SQUADRON                          100% of 218098 votes
+    USGS      102,490  US GEOLOGICAL SURVEY                       100% of 73211 votes
+    MNDT       95,687  MN DEPT OF TRANSP                          100% of 81367 votes
+    GEOCAC     76,415  GEOCACHING                                 100% of 74262 votes
+    NCGS       61,374  NORTH CAROLINA GEODETIC SURVEY             100% of 54041 votes
+    SCGS       29,098  SOUTH CAROLINA GEODETIC SURVEY             100% of 25349 votes
+    FLDEP      26,759  FL DEPT OF ENV PRO                         100% of 25119 votes
+    INDIV      25,434  INDIVIDUAL CONTRIBUTORS                    100% of 24158 votes
+    USACE      23,132  US ARMY CORPS OF ENGINEERS                 100% of 13474 votes
+    WIDT       21,071  WI DEPT OF TRANSP                          100% of 16909 votes
+    FLDT       16,969  FLORIDA DEPARTMENT OF TRANSPORTATION       100% of 10266 votes
+    NOS        13,338  NATIONAL OCEAN SERVICE                     100% of 8673 votes
+    MSHD       10,316  MISSISSIPPI STATE HIGHWAY DEPARTMENT       100% of 8834 votes
+    LOCENG      9,949  LOCAL ENGINEER (INDIVIDUAL OR FIRM)        100% of 8656 votes
+    LOCSUR      9,632  LOCAL SURVEYOR (INDIVIDUAL OR FIRM)        100% of 8499 votes
+    NJGS        8,994  NEW JERSEY GEODETIC SURVEY                 100% of 7574 votes
+
+  condition reports by decade, and the share filed by the three codes whose
+  derived names are US POWER SQUADRON, GEOCACHING and INDIVIDUAL CONTRIBUTORS:
+    1900s  reports   11,605   public       2 ( 0.0%)   busiest: CGS 5,255
+    1910s  reports   17,428   public       0 ( 0.0%)   busiest: CGS 11,918
+    1920s  reports   21,954   public       0 ( 0.0%)   busiest: CGS 16,118
+    1930s  reports  191,308   public       4 ( 0.0%)   busiest: CGS 165,481
+    1940s  reports  147,302   public      16 ( 0.0%)   busiest: CGS 130,439
+    1950s  reports  198,153   public      43 ( 0.0%)   busiest: CGS 169,985
+    1960s  reports  251,622   public      75 ( 0.0%)   busiest: CGS 188,680
+    1970s  reports  228,549   public     205 ( 0.1%)   busiest: NGS 116,334
+    1980s  reports  245,857   public  59,448 (24.2%)   busiest: NGS 106,425
+    1990s  reports  208,775   public  82,566 (39.5%)   busiest: USPSQD 82,449
+    2000s  reports  304,786   public 137,016 (45.0%)   busiest: USPSQD 80,981
+    2010s  reports  180,350   public  42,779 (23.7%)   busiest: MNDT 40,046
+    2020s  reports   78,933   public  18,281 (23.2%)   busiest: MNDT 18,664
+
+  recovery reports only (GOOD / POOR / NOT FOUND / SEE DESCRIPTION),
+  which is the count of times somebody went looking:
+    1900s  searches    1,000   public       2 ( 0.2%)   top: CGS 887, USGS 57, IBC 35
+    1910s  searches    1,783   public       0 ( 0.0%)   top: CGS 1,644, IBC 43, USGS 32
+    1920s  searches    4,603   public       0 ( 0.0%)   top: CGS 4,080, IBC 155, USACE 100
+    1930s  searches   51,467   public       4 ( 0.0%)   top: CGS 45,584, USACE 627, TXHD 595
+    1940s  searches   51,248   public      16 ( 0.0%)   top: CGS 46,415, USGS 1,419, LOCENG 413
+    1950s  searches   99,205   public      43 ( 0.0%)   top: CGS 83,905, USGS 8,801, USACE 1,236
+    1960s  searches  152,893   public      74 ( 0.0%)   top: CGS 117,558, USGS 17,300, MSHD 3,873
+    1970s  searches  148,711   public     205 ( 0.1%)   top: NGS 83,536, USGS 21,624, FLDT 5,470
+    1980s  searches  175,569   public  59,447 (33.9%)   top: NGS 69,418, USPSQD 59,447, USGS 6,935
+    1990s  searches  164,337   public  82,566 (50.2%)   top: USPSQD 82,449, NGS 32,059, SCGS 6,739
+    2000s  searches  273,929   public 136,996 (50.0%)   top: USPSQD 80,980, GEOCAC 44,328, MNDT 18,745
+    2010s  searches  154,367   public  42,778 (27.7%)   top: MNDT 30,107, GEOCAC 24,414, INDIV 11,088
+    2020s  searches   75,193   public  18,278 (24.3%)   top: MNDT 17,925, USPSQD 8,092, GEOCAC 7,667
+
+  earliest dated report per mark, by decade (the honest age profile; the
+  datasheet's MONUMENTED row is often dated UNK so this is a lower bound
+  on each mark's age):
+    1740s        1
+    1760s        2
+    1790s        2
+    1800s        1
+    1810s        7
+    1830s      121
+    1840s      797
+    1850s      540
+    1860s      659
+    1870s    1,757
+    1880s    2,143
+    1890s    3,457
+    1900s   10,633
+    1910s   15,719
+    1920s   17,641
+    1930s  152,923
+    1940s  101,101
+    1950s  106,519
+    1960s  108,565
+    1970s   84,424
+    1980s   71,926
+    1990s   46,414
+    2000s   31,879
+    2010s   26,795
+    2020s    3,833
+
+  code->name map, two independent records:
+    codes with a byline-derived name:      2,505
+    codes listed in Annex C:               1,792
+    in both (the only ones that can differ): 1,184
+    sharing at least one content word:     1,141  (96.4%)
+      ?! MSDOT: byline 'MS DEPT TRANS' vs annex 'MISSISSIPPI DEPARTMENT OF TRANSPOR'
+      ?! FLDEP: byline 'FL DEPT OF ENV PRO' vs annex 'FLORIDA DEPARTMENT OF ENVIROMENTAL'
+      ?! TNDT: byline 'TN DEPT OF TRANSP' vs annex 'TENNESSEE DEPARTMENT OF TRANSPORTA'
+      ?! SURCON: byline 'SURVEYING CONSULTANTS' vs annex 'SURVCON INCORPORATED'
+      ?! FLDNR: byline 'FL DEPT OF NAT RES' vs annex 'FLORIDA DEPARTMENT OF NATURAL RESO'
+      ?! AKDNR: byline 'AK DEPT OF NAT RES' vs annex 'ALASKA DEPARTMENT OF NATURAL RESOU'
+      ?! NYDT: byline 'NY DEPT OF TRANSP' vs annex 'NEW YORK STATE DEPARTMENT OF TRANS'
+      ?! IBWC: byline 'INT BDRY WTR COMM' vs annex 'INTERNATIONAL BOUNDARY AND WATER C'
+
+  recovery reports by Annex C category, by decade:
+    decade   total       A      B      C      D      E      F      G      H      I      J      K      L      M   (not
+    1900s    1,000    99.0    0.0    0.3    0.0    0.0    0.0    0.0    0.0    0.0    0.0    0.2    0.0    0.2    0.3
+    1910s    1,783    97.6    0.0    0.4    0.0    0.0    0.0    0.4    0.0    0.0    0.0    0.0    0.0    0.0    1.6
+    1920s    4,603    96.2    0.1    0.9    0.0    0.0    0.0    0.0    0.0    0.1    0.0    0.0    0.0    0.3    2.2
+    1930s   51,467    91.5    0.0    5.8    0.1    0.0    0.2    0.1    0.2    0.2    0.1    0.0    0.0    0.4    1.2
+    1940s   51,248    95.6    0.0    1.0    0.0    0.1    0.4    0.3    0.3    0.1    0.0    0.0    0.2    1.3    0.8
+    1950s   99,205    96.7    0.1    0.6    0.0    0.0    0.0    0.0    0.2    0.2    0.0    0.0    0.1    0.6    1.3
+    1960s  152,893    90.4    0.1    5.2    0.7    0.8    0.1    0.1    0.1    1.2    0.0    0.0    0.1    0.9    0.4
+    1970s  148,711    75.9    0.0   16.4    1.9    0.4    0.3    0.1    0.1    0.8    0.2    0.1    0.1    3.3    0.4
+    1980s  175,569    45.5    0.0   14.5    1.4    0.0    0.1    0.0    0.0    0.5    0.6   33.9    0.0    3.2    0.2
+    1990s  164,337    21.8    0.0   20.0    1.2    0.1    0.2    0.0    0.5    4.1    0.0   50.2    0.1    1.0    0.8
+    2000s  273,929     6.0    0.0   28.1    1.3    0.1    0.2    0.0    0.0    2.8    0.2   29.6    0.0    0.4   31.3
+    2010s  154,367     2.9    0.0   46.4    2.0    0.3    0.3    0.0    0.0    3.0    0.8    4.7    0.1    0.1   39.3
+    2020s   75,193     2.0    0.0   46.4    2.2    0.1    0.3    0.0    0.2    2.2    0.6   10.8    0.1    1.3   33.8
+    (columns are percentages of that decade's recovery reports)
+
+  the codes filing the most recovery reports that Annex C does not list:
+      GEOCAC     76,414  GEOCACHING
+      INDIV      25,408  INDIVIDUAL CONTRIBUTORS
+      USACE      10,327  US ARMY CORPS OF ENGINEERS
+      CCPWSD      7,189  CHARLESTON COUNTY PUBLIC
+      JCLS        4,454  JOHN CHANCE LAND SURVEYS INC
+      DOASLS      3,023  DEPARTMENT OF AGRICULTURE STAT
+      MAPTEC      1,921  MAPTECH INCORPORATED
+      TROY        1,596  TROY STATE UNIVERSITY
+
+latest condition by STABILITY class (the class is the datasheet's own
+expectation of how well the mark will hold):
+  stability A  n=  65,019   last report NOT FOUND  11.1%   GOOD  49.1%
+  stability B  n= 142,704   last report NOT FOUND  13.8%   GOOD  59.8%
+  stability C  n= 413,874   last report NOT FOUND  23.7%   GOOD  49.5%
+  stability D  n= 113,614   last report NOT FOUND  26.6%   GOOD  48.0%
