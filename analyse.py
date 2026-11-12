@@ -48,6 +48,9 @@ vocab = collections.Counter(h[1] for r in rows for h in r["hist"])
 print("\ncondition vocabulary across every HISTORY row in the published set:")
 for k, v in vocab.most_common():
     print(f"  {k:<18} {v:>9,}")
+# Printed rather than added up by hand in prose: a total I compute in a sentence is a
+# number nothing checks.
+print(f"  {'TOTAL ROWS':<18} {sum(vocab.values()):>9,}   ({len(vocab)} distinct values)")
 
 # ---- 3. a 'not found' is a statement about a search ------------------------
 FOUND = {"GOOD", "POOR"}

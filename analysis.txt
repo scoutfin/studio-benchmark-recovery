@@ -14,6 +14,7 @@ condition vocabulary across every HISTORY row in the published set:
   POOR                  21,515
   SEE DESCRIPTION       17,020
   01 MONUMENTED              9
+  TOTAL ROWS         2,150,309   (7 distinct values)
 
 marks ever reported MARK NOT FOUND:        177,328
   someone filed a later report (exposure): 59,580  (33.6%)
